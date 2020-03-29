@@ -17,3 +17,7 @@ abbreviations and words quickly and decipher their meanings without scouring
 the internet. Additionally, the translator can include a quiz system to
 further solidify these new words and abbreviations through repeated
 practice
+
+team member: Xinrui Liu ​xliu844@wisc.edu​; David Yin ​dyin29@wisc.edu​; 
+Chengxu Bian cbian7@wisc.edu​; Daniel Ye ​dye26@wisc.edu​; 
+Harsha Kenchareddy kenchareddy@wisc.edu 
